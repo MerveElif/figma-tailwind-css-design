@@ -1,5 +1,6 @@
 **\*\*\*** NOT **\*\*\*\***
 **\*\*\*\***WEB VE MOBİL GÖRÜNÜME AİR RESİMLER PUBLIC/MYAPP KLASÖRÜ ALTINDA VERİLMİŞTİR.\***\*\*\*\*\***
+***** Eğer projeyi yüklemekle ilgili bir sıkıntı yaşarsanız eklediğim ekran görüntülerinin boyutu yüksek , düzgün gözükmesi için düşürmedim , buffer ile repoayarı yapıp düzgün şekilde yükleyebilir siniz.******
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
